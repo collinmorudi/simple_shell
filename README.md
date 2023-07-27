@@ -1,1 +1,2 @@
-Project description to be added
+#This is the Simple Shell Project
+more content to be added...
